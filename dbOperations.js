@@ -1,9 +1,9 @@
 var mariadb = require('mariadb/callback');
 var bcrypt = require('bcrypt');
 var hostname = "maria.westeurope.cloudapp.azure.com";
-var msgDb = 'LTD7008';
-var dbUser = "opiskelija";
-var dbPasswd = "opiskelija1";
+var msgDb = '____';
+var dbUser = "_____";
+var dbPasswd = "_____";
 
 module.exports = {
 
